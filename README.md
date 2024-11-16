@@ -30,6 +30,18 @@
 - Arrays, Objects, Tuples
 - Union Type, Literal Type, Index signature
 
+## Functions
+
+
+## Interfaces
+- Extends
+- Accepts optional params
+
+## Type Aliases
+- Intersect
+- Accepts optional params
+
+
 
 
 
