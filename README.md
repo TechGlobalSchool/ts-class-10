@@ -17,6 +17,19 @@
 - This will create `tsconfig.json` file
 
 
+## Type Annotations
+
+## Basic Types
+- Number, String, Boolean, Date and so on.
+
+## Type Inference
+- TypeScript automatically infers type by just checking the code
+- You don't always have to specify types
+
+## Advanced Types
+- Arrays, Objects, Tuples
+- Union Type, Literal Type, Index signature
+
 
 
 
