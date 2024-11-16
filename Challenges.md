@@ -2,12 +2,12 @@
 
 #### Practice 1: Write Functions with Specific Return Types
 - Objective: Define functions with clear input and output types.
-- Task: Create a function to calculate the product of two numbers. Write a function that takes a string and returns its length.
+- Task: Create a function to calculate the product of two numbers. 
+- Write a function that takes a string and returns its length.
 
 #### Practice 2: Create an Example Using Union Types  
 Objective: Use union types to create a flexible function. 
 Task: Create a function that takes a parameter of type string | boolean and returns a descriptive message based on the type.
-
 
 
 ### Practice 3: Create and design Interfaces for an E-Commerce Cart System
